@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-快速地<sup><em>Vitesse</em></sup> 创建 Web 应用
+快速地<sup><em>Vitesse</em></sup> 创建 Web 应用 测试actions
 <br> 
 </p>
 
